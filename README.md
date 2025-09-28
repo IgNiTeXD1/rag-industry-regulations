@@ -45,7 +45,8 @@ PDFs → ingest.py → chunks.sqlite → embed_index.py → FAISS + ids.npy
 1. Clone repo and install dependencies:
  
  ```bash
-  git clone https://github.com/your-username/mini-rag-reranker.git
+  git clone 
+https://github.com/IgNiTeXD1/rag-industry-regulations
   cd mini-rag-reranker
   pip install -r requirements.txt
    ```
